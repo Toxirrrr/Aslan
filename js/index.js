@@ -48,7 +48,7 @@ let Ptext = prompt("p Text");
 let Ptext2 = prompt("p class");
 let Ptext3 = prompt("p id");
 
-main.className = 'main';
+main.className = '';
 div.className = "wrapper";
 ol.classname = "list";
 li.classname = "item";
